@@ -1,0 +1,284 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: My Story\n"
+"POT-Creation-Date: 2025-03-11 22:32+0330\n"
+"PO-Revision-Date: 2025-03-01 22:33+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: my-story.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: my-story.php:46 widget/my-story-widget.php:180
+msgid "My Story"
+msgstr ""
+
+#: my-story.php:62
+msgid "Touch to unmute"
+msgstr ""
+
+#: my-story.php:63
+msgid "Press space to see next"
+msgstr ""
+
+#: my-story.php:64
+msgid "Visit link"
+msgstr ""
+
+#: my-story.php:66
+msgid "ago"
+msgstr ""
+
+#: my-story.php:67
+msgid "hour"
+msgstr ""
+
+#: my-story.php:68
+msgid "hours"
+msgstr ""
+
+#: my-story.php:69
+msgid "minute"
+msgstr ""
+
+#: my-story.php:70
+msgid "minutes"
+msgstr ""
+
+#: my-story.php:71
+msgid "from now"
+msgstr ""
+
+#: my-story.php:72
+msgid "seconds"
+msgstr ""
+
+#: my-story.php:73
+msgid "yesterday"
+msgstr ""
+
+#: my-story.php:74
+msgid "tomorrow"
+msgstr ""
+
+#: my-story.php:75
+msgid "days"
+msgstr ""
+
+#: widget/my-story-widget.php:38
+msgid "My Story Widget"
+msgstr ""
+
+#: widget/my-story-widget.php:154
+msgid "Stories"
+msgstr ""
+
+#: widget/my-story-widget.php:162
+msgid "Direction"
+msgstr ""
+
+#: widget/my-story-widget.php:166
+msgid "RTL (right-to-left)"
+msgstr ""
+
+#: widget/my-story-widget.php:167
+msgid "LTR (left-to-right)"
+msgstr ""
+
+#: widget/my-story-widget.php:177
+msgid "Title"
+msgstr ""
+
+#: widget/my-story-widget.php:179
+msgid "Story Main Title"
+msgstr ""
+
+#: widget/my-story-widget.php:186 widget/my-story-widget.php:327
+msgid "Story Preview Thumbnail"
+msgstr ""
+
+#: widget/my-story-widget.php:196
+msgid "Duration of each story (seconds)"
+msgstr ""
+
+#: widget/my-story-widget.php:214
+msgid "Story Content"
+msgstr ""
+
+#: widget/my-story-widget.php:218
+msgid "Image"
+msgstr ""
+
+#: widget/my-story-widget.php:222
+msgid "Video"
+msgstr ""
+
+#: widget/my-story-widget.php:233
+msgid "Story Images"
+msgstr ""
+
+#: widget/my-story-widget.php:245
+msgid "Video Link"
+msgstr ""
+
+#: widget/my-story-widget.php:268
+msgid "Story Link Button Text"
+msgstr ""
+
+#: widget/my-story-widget.php:270
+msgid "Click Here"
+msgstr ""
+
+#: widget/my-story-widget.php:276
+msgid "Story Link"
+msgstr ""
+
+#: widget/my-story-widget.php:291
+msgid "My Stories"
+msgstr ""
+
+#: widget/my-story-widget.php:296 widget/my-story-widget.php:315
+msgid "Story Title"
+msgstr ""
+
+#: widget/my-story-widget.php:307
+msgid "Display Settings"
+msgstr ""
+
+#: widget/my-story-widget.php:317 widget/my-story-widget.php:329
+#: widget/my-story-widget.php:340 widget/my-story-widget.php:351
+msgid "Show"
+msgstr ""
+
+#: widget/my-story-widget.php:318 widget/my-story-widget.php:330
+#: widget/my-story-widget.php:341 widget/my-story-widget.php:352
+#: widget/my-story-widget.php:386
+msgid "Hide"
+msgstr ""
+
+#: widget/my-story-widget.php:338
+msgid "Story Preview Title"
+msgstr ""
+
+#: widget/my-story-widget.php:349
+msgid "Story Preview Timestamp"
+msgstr ""
+
+#: widget/my-story-widget.php:363
+msgid "General Settings"
+msgstr ""
+
+#: widget/my-story-widget.php:371
+msgid "Avatars"
+msgstr ""
+
+#: widget/my-story-widget.php:373 widget/my-story-widget.php:385
+#: widget/my-story-widget.php:397 widget/my-story-widget.php:418
+#: widget/my-story-widget.php:430 widget/my-story-widget.php:442
+#: widget/my-story-widget.php:454
+msgid "Yes"
+msgstr ""
+
+#: widget/my-story-widget.php:374 widget/my-story-widget.php:398
+#: widget/my-story-widget.php:419 widget/my-story-widget.php:431
+#: widget/my-story-widget.php:443 widget/my-story-widget.php:455
+msgid "No"
+msgstr ""
+
+#: widget/my-story-widget.php:376
+msgid "Show user photo instead of the first story item preview?"
+msgstr ""
+
+#: widget/my-story-widget.php:383
+msgid "Back Button"
+msgstr ""
+
+#: widget/my-story-widget.php:388
+msgid "Add a back button to close the story viewer? (on smaller screens)"
+msgstr ""
+
+#: widget/my-story-widget.php:395
+msgid "Cube Effect"
+msgstr ""
+
+#: widget/my-story-widget.php:400
+msgid "Enable the 3D cube effect when sliding between stories?"
+msgstr ""
+
+#: widget/my-story-widget.php:407
+msgid "Additional Options"
+msgstr ""
+
+#: widget/my-story-widget.php:416
+msgid "Auto Full Screen"
+msgstr ""
+
+#: widget/my-story-widget.php:421
+msgid "Should stories automatically open in full screen on mobile?"
+msgstr ""
+
+#: widget/my-story-widget.php:428
+msgid "Back Native Button"
+msgstr ""
+
+#: widget/my-story-widget.php:433
+msgid "Exit story mode when the mobile back button is pressed?"
+msgstr ""
+
+#: widget/my-story-widget.php:440
+msgid "Previous Tap"
+msgstr ""
+
+#: widget/my-story-widget.php:445
+msgid ""
+"Use the left third of the screen to navigate to the previous item when "
+"tapping the story?"
+msgstr ""
+
+#: widget/my-story-widget.php:452
+msgid "Show Pagination Arrows"
+msgstr ""
+
+#: widget/my-story-widget.php:466
+msgid "Style Section"
+msgstr ""
+
+#: widget/my-story-widget.php:501
+msgid "Image Border Radius"
+msgstr ""
+
+#: widget/my-story-widget.php:513
+msgid "Background Border Radius"
+msgstr ""
+
+#: widget/my-story-widget.php:534
+msgid "Padding"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create your own custom Instagram style stories. Show them on any part of "
+"your site using a custom widget in the Elementor page builder by adding "
+"custom images, videos, text and links."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Saeed Piri"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://isaeedam.ir/"
+msgstr ""
